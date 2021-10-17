@@ -1,7 +1,7 @@
 ### functions adopted from STScI COS notebooks: 
 # https://github.com/spacetelescope/notebooks/blob/master/notebooks/COS/LSF/LSF.ipynb
 # 09/10/2021
-
+## 
 # Import for: array manipulation
 import numpy as np
 
